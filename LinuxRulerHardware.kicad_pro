@@ -482,6 +482,10 @@
     [
       "1bc055cb-4072-4f8f-a1c9-26818f7ca321",
       "[1] - Battery Charge"
+    ],
+    [
+      "dcd9e9ca-c33b-4030-8fbb-e123701a2235",
+      "[2] - DDR"
     ]
   ],
   "text_variables": {}

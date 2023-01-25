@@ -42,6 +42,23 @@
     )
   )
 
+  (sheet (at 71.755 16.51) (size 43.815 28.575) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid dcd9e9ca-c33b-4030-8fbb-e123701a2235)
+    (property "Sheetname" "[2] - DDR" (at 71.755 15.7984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "ddr.kicad_sch" (at 71.755 45.6696 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LinuxRulerHardware"
+        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "4"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
