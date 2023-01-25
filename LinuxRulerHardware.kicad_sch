@@ -1,4 +1,4 @@
-(kicad_sch (version 20221206) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid 139c7518-bdce-4d72-a2f4-8829476221aa)
 
@@ -8,31 +8,14 @@
   )
 
 
-  (sheet (at 13.97 165.735) (size 44.45 28.575) (fields_autoplaced)
+  (sheet (at 19.685 161.29) (size 49.53 29.21) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid 560a99d2-37cc-440b-9f01-519d57f1c33d)
-    (property "Sheetname" "[1] - SoC Power And Configurations" (at 13.97 165.0234 0)
+    (uuid 1bc055cb-4072-4f8f-a1c9-26818f7ca321)
+    (property "Sheetname" "[1] - Battery Charge" (at 19.685 160.5784 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "soc_pwr.kicad_sch" (at 13.97 194.8946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "LinuxRulerHardware"
-        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 61.595 165.735) (size 45.72 28.575) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid caa1d916-7619-4f49-b949-b61a91c2cd3e)
-    (property "Sheetname" "[2] - DDR SDRAM" (at 61.595 165.0234 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "ddr.kicad_sch" (at 61.595 194.8946 0)
+    (property "Sheetfile" "bc.kicad_sch" (at 19.685 191.0846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -42,53 +25,19 @@
     )
   )
 
-  (sheet (at 61.595 128.905) (size 45.72 30.48) (fields_autoplaced)
+  (sheet (at 15.875 15.875) (size 46.355 28.575) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid e8ddff96-5422-47cf-a023-6d845c5b0a59)
-    (property "Sheetname" "[5] - Power Supply" (at 61.595 128.1934 0)
+    (uuid 7c7066d3-03a4-4c07-b788-e2ff554ac39b)
+    (property "Sheetname" "[1] - SoC-PWR" (at 15.875 15.1634 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "power.kicad_sch" (at 61.595 159.9696 0)
+    (property "Sheetfile" "RK_PWR.kicad_sch" (at 15.875 45.0346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
       (project "LinuxRulerHardware"
-        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "6"))
-      )
-    )
-  )
-
-  (sheet (at 109.855 165.735) (size 45.085 28.575) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid f88de627-c206-4f53-8d3c-c63d1ae8a61f)
-    (property "Sheetname" "[3] - NAND Flash" (at 109.855 165.0234 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "nand-flash.kicad_sch" (at 109.855 194.8946 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "LinuxRulerHardware"
-        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 13.97 128.905) (size 44.45 30.48) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid fe0e38cb-089e-4a4f-a14f-c5fb6ff77c18)
-    (property "Sheetname" "[4] - Screen Controller" (at 13.97 128.1934 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "screen.kicad_sch" (at 13.97 159.9696 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "LinuxRulerHardware"
-        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "5"))
+        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "2"))
       )
     )
   )

@@ -354,13 +354,14 @@
     "rule_severities": {
       "bus_definition_conflict": "error",
       "bus_entry_needed": "error",
-      "bus_label_syntax": "error",
       "bus_to_bus_conflict": "error",
       "bus_to_net_conflict": "error",
+      "conflicting_netclasses": "error",
       "different_unit_footprint": "error",
       "different_unit_net": "error",
       "duplicate_reference": "error",
       "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
       "extra_units": "error",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
@@ -459,9 +460,11 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
+    "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
     "spice_save_all_currents": false,
     "spice_save_all_voltages": false,
     "subpart_first_id": 65,
@@ -473,24 +476,12 @@
       ""
     ],
     [
-      "560a99d2-37cc-440b-9f01-519d57f1c33d",
-      "[1] - SoC Power And Configurations"
+      "7c7066d3-03a4-4c07-b788-e2ff554ac39b",
+      "[1] - SoC-PWR"
     ],
     [
-      "caa1d916-7619-4f49-b949-b61a91c2cd3e",
-      "[2] - DDR SDRAM"
-    ],
-    [
-      "f88de627-c206-4f53-8d3c-c63d1ae8a61f",
-      "[3] - NAND Flash"
-    ],
-    [
-      "fe0e38cb-089e-4a4f-a14f-c5fb6ff77c18",
-      "[4] - Screen Controller"
-    ],
-    [
-      "e8ddff96-5422-47cf-a023-6d845c5b0a59",
-      "[5] - Power Supply"
+      "1bc055cb-4072-4f8f-a1c9-26818f7ca321",
+      "[1] - Battery Charge"
     ]
   ],
   "text_variables": {}
