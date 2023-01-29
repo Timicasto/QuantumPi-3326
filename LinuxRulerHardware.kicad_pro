@@ -486,6 +486,14 @@
     [
       "dcd9e9ca-c33b-4030-8fbb-e123701a2235",
       "[2] - DDR"
+    ],
+    [
+      "9c901f10-e3a4-4a25-a5d5-c25a245c2196",
+      "[3] - NAND Flash"
+    ],
+    [
+      "68f0ddac-960a-4617-9292-241c25729051",
+      "[2] - Power Management"
     ]
   ],
   "text_variables": {}

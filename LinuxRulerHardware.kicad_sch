@@ -25,6 +25,23 @@
     )
   )
 
+  (sheet (at 72.39 161.29) (size 99.695 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 68f0ddac-960a-4617-9292-241c25729051)
+    (property "Sheetname" "[2] - Power Management" (at 72.39 160.5784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "pm.kicad_sch" (at 72.39 191.0846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LinuxRulerHardware"
+        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "6"))
+      )
+    )
+  )
+
   (sheet (at 15.875 15.875) (size 46.355 28.575) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -42,14 +59,31 @@
     )
   )
 
-  (sheet (at 71.755 16.51) (size 43.815 28.575) (fields_autoplaced)
+  (sheet (at 130.81 15.875) (size 59.055 28.575) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c901f10-e3a4-4a25-a5d5-c25a245c2196)
+    (property "Sheetname" "[3] - NAND Flash" (at 130.81 15.1634 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "flash.kicad_sch" (at 130.81 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "LinuxRulerHardware"
+        (path "/139c7518-bdce-4d72-a2f4-8829476221aa" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 71.755 15.875) (size 49.53 28.575) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid dcd9e9ca-c33b-4030-8fbb-e123701a2235)
-    (property "Sheetname" "[2] - DDR" (at 71.755 15.7984 0)
+    (property "Sheetname" "[2] - DDR" (at 71.755 15.1634 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "ddr.kicad_sch" (at 71.755 45.6696 0)
+    (property "Sheetfile" "ddr.kicad_sch" (at 71.755 45.0346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances

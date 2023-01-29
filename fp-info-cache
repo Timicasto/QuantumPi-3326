@@ -1,4 +1,4 @@
-21070852730881685
+21307508950560472
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -45422,6 +45422,272 @@ connector Samtec HLE top entry
 0
 100
 100
+Connector_Samtec_HPM_THT
+Samtec_HPM-01-01-x-S_Straight_1x01_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x01, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x01 5.08mm single row
+0
+1
+1
+Connector_Samtec_HPM_THT
+Samtec_HPM-01-05-x-S_Straight_1x01_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x01, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x01 5.08mm single row
+0
+1
+1
+Connector_Samtec_HPM_THT
+Samtec_HPM-02-01-x-S_Straight_1x02_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x02, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x02 5.08mm single row
+0
+2
+2
+Connector_Samtec_HPM_THT
+Samtec_HPM-02-05-x-S_Straight_1x02_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x02, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x02 5.08mm single row
+0
+2
+2
+Connector_Samtec_HPM_THT
+Samtec_HPM-03-01-x-S_Straight_1x03_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x03, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x03 5.08mm single row
+0
+3
+3
+Connector_Samtec_HPM_THT
+Samtec_HPM-03-05-x-S_Straight_1x03_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x03, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x03 5.08mm single row
+0
+3
+3
+Connector_Samtec_HPM_THT
+Samtec_HPM-04-01-x-S_Straight_1x04_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x04, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x04 5.08mm single row
+0
+4
+4
+Connector_Samtec_HPM_THT
+Samtec_HPM-04-05-x-S_Straight_1x04_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x04, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x04 5.08mm single row
+0
+4
+4
+Connector_Samtec_HPM_THT
+Samtec_HPM-05-01-x-S_Straight_1x05_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x05, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x05 5.08mm single row
+0
+5
+5
+Connector_Samtec_HPM_THT
+Samtec_HPM-05-05-x-S_Straight_1x05_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x05, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x05 5.08mm single row
+0
+5
+5
+Connector_Samtec_HPM_THT
+Samtec_HPM-06-01-x-S_Straight_1x06_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x06, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x06 5.08mm single row
+0
+6
+6
+Connector_Samtec_HPM_THT
+Samtec_HPM-06-05-x-S_Straight_1x06_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x06, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x06 5.08mm single row
+0
+6
+6
+Connector_Samtec_HPM_THT
+Samtec_HPM-07-01-x-S_Straight_1x07_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x07, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x07 5.08mm single row
+0
+7
+7
+Connector_Samtec_HPM_THT
+Samtec_HPM-07-05-x-S_Straight_1x07_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x07, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x07 5.08mm single row
+0
+7
+7
+Connector_Samtec_HPM_THT
+Samtec_HPM-08-01-x-S_Straight_1x08_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x08, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x08 5.08mm single row
+0
+8
+8
+Connector_Samtec_HPM_THT
+Samtec_HPM-08-05-x-S_Straight_1x08_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x08, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x08 5.08mm single row
+0
+8
+8
+Connector_Samtec_HPM_THT
+Samtec_HPM-09-01-x-S_Straight_1x09_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x09, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x09 5.08mm single row
+0
+9
+9
+Connector_Samtec_HPM_THT
+Samtec_HPM-09-05-x-S_Straight_1x09_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x09, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x09 5.08mm single row
+0
+9
+9
+Connector_Samtec_HPM_THT
+Samtec_HPM-10-01-x-S_Straight_1x10_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x10, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x10 5.08mm single row
+0
+10
+10
+Connector_Samtec_HPM_THT
+Samtec_HPM-10-05-x-S_Straight_1x10_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x10, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x10 5.08mm single row
+0
+10
+10
+Connector_Samtec_HPM_THT
+Samtec_HPM-11-01-x-S_Straight_1x11_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x11, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x11 5.08mm single row
+0
+11
+11
+Connector_Samtec_HPM_THT
+Samtec_HPM-11-05-x-S_Straight_1x11_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x11, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x11 5.08mm single row
+0
+11
+11
+Connector_Samtec_HPM_THT
+Samtec_HPM-12-01-x-S_Straight_1x12_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x12, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x12 5.08mm single row
+0
+12
+12
+Connector_Samtec_HPM_THT
+Samtec_HPM-12-05-x-S_Straight_1x12_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x12, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x12 5.08mm single row
+0
+12
+12
+Connector_Samtec_HPM_THT
+Samtec_HPM-13-01-x-S_Straight_1x13_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x13, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x13 5.08mm single row
+0
+13
+13
+Connector_Samtec_HPM_THT
+Samtec_HPM-13-05-x-S_Straight_1x13_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x13, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x13 5.08mm single row
+0
+13
+13
+Connector_Samtec_HPM_THT
+Samtec_HPM-14-01-x-S_Straight_1x14_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x14, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x14 5.08mm single row
+0
+14
+14
+Connector_Samtec_HPM_THT
+Samtec_HPM-14-05-x-S_Straight_1x14_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x14, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x14 5.08mm single row
+0
+14
+14
+Connector_Samtec_HPM_THT
+Samtec_HPM-15-01-x-S_Straight_1x15_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x15, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x15 5.08mm single row
+0
+15
+15
+Connector_Samtec_HPM_THT
+Samtec_HPM-15-05-x-S_Straight_1x15_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x15, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x15 5.08mm single row
+0
+15
+15
+Connector_Samtec_HPM_THT
+Samtec_HPM-16-01-x-S_Straight_1x16_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x16, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x16 5.08mm single row
+0
+16
+16
+Connector_Samtec_HPM_THT
+Samtec_HPM-16-05-x-S_Straight_1x16_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x16, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x16 5.08mm single row
+0
+16
+16
+Connector_Samtec_HPM_THT
+Samtec_HPM-17-01-x-S_Straight_1x17_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x17, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x17 5.08mm single row
+0
+17
+17
+Connector_Samtec_HPM_THT
+Samtec_HPM-17-05-x-S_Straight_1x17_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x17, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x17 5.08mm single row
+0
+17
+17
+Connector_Samtec_HPM_THT
+Samtec_HPM-18-01-x-S_Straight_1x18_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x18, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x18 5.08mm single row
+0
+18
+18
+Connector_Samtec_HPM_THT
+Samtec_HPM-18-05-x-S_Straight_1x18_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x18, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x18 5.08mm single row
+0
+18
+18
+Connector_Samtec_HPM_THT
+Samtec_HPM-19-01-x-S_Straight_1x19_Pitch5.08mm
+Through hole straight Samtec HPM power header series 11.94mm post length, 1x19, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 11.94mm post length THT 1x19 5.08mm single row
+0
+19
+19
+Connector_Samtec_HPM_THT
+Samtec_HPM-19-05-x-S_Straight_1x19_Pitch5.08mm
+Through hole straight Samtec HPM power header series 3.81mm post length, 1x19, 5.08mm pitch, single row
+Through hole Samtec HPM power header series 3.81mm post length THT 1x19 5.08mm single row
+0
+19
+19
 Connector_Stocko
 Stocko_MKS_1651-6-0-202_1x2_P2.50mm_Vertical
 Stocko MKS 16xx series connector, (https://www.stocko-contact.com/downloads/steckverbindersystem-raster-2,5-mm.pdf#page=15), generated with kicad-footprint-generator
@@ -54201,16 +54467,401 @@ inductor
 2
 2
 Inductor_SMD
-L_Coilcraft_XAL60xx_6.36x6.56mm
-Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf
-L Coilcraft XAL60xx
+L_Coilcraft_XAL1010-XXX
+Inductor, Coilcraft, XAL1010-XXX, 10.5x11.8x10.0mm, https://www.coilcraft.com/getmedia/dd74e670-e705-456a-9a69-585fe02eaf3c/xal1010.pdf
+Inductor xal
 0
 2
 2
 Inductor_SMD
-L_Coilcraft_XAL5030
-L_Coilcraft_XAL5030
-L Coilcraft XAL5030
+L_Coilcraft_XAL1030-XXX
+Inductor, Coilcraft, XAL1030-XXX, 10.5x11.8x3.1mm, https://www.coilcraft.com/getmedia/7b108457-7731-456d-9256-ca72f2e1a551/xal1030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1060-XXX
+Inductor, Coilcraft, XAL1060-XXX, 10.5x11.8x6.0mm, https://www.coilcraft.com/getmedia/8909f858-b441-4d60-acff-8b8ca36f9ede/xal1060.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1350-XXX
+Inductor, Coilcraft, XAL1350-XXX, 13.2x14.2x5.0mm, https://www.coilcraft.com/getmedia/dc536f86-3a3b-454f-950e-8e153260e61c/xal1350.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-103
+Inductor, Coilcraft, XAL1510-103, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-153
+Inductor, Coilcraft, XAL1510-153, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-223
+Inductor, Coilcraft, XAL1510-223, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-333
+Inductor, Coilcraft, XAL1510-333, 15.4x16.4x11.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-472
+Inductor, Coilcraft, XAL1510-472, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-682
+Inductor, Coilcraft, XAL1510-682, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1510-822
+Inductor, Coilcraft, XAL1510-822, 15.4x16.4x10.0mm, https://www.coilcraft.com/getmedia/cd1cef27-13f0-4568-8894-f7311475209b/xal1510.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1513-153
+Inductor, Coilcraft, XAL1513-153, 15.4x16.4x13.0mm, https://www.coilcraft.com/getmedia/129ad6f3-0445-47fd-a0b3-edeb49177c17/xal1513.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-102
+Inductor, Coilcraft, XAL1580-102, 15.4x16.4x8.2mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-132
+Inductor, Coilcraft, XAL1580-132, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-182
+Inductor, Coilcraft, XAL1580-182, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-202
+Inductor, Coilcraft, XAL1580-202, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-302
+Inductor, Coilcraft, XAL1580-302, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-401
+Inductor, Coilcraft, XAL1580-401, 15.4x16.4x8.2mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-452
+Inductor, Coilcraft, XAL1580-452, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-532
+Inductor, Coilcraft, XAL1580-532, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-612
+Inductor, Coilcraft, XAL1580-612, 15.4x16.4x8.0mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL1580-741
+Inductor, Coilcraft, XAL1580-741, 15.4x16.4x8.2mm, https://www.coilcraft.com/getmedia/7fdfd306-5217-4ddc-b6b7-a2659ceeb6e3/xal1580.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL4020-XXX
+Inductor, Coilcraft, XAL4020-XXX, 4.3x4.3x2.1mm, https://www.coilcraft.com/getmedia/6adcb47d-8b55-416c-976e-1e22e0d2848c/xal4000.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL4030-XXX
+Inductor, Coilcraft, XAL4030-XXX, 4.3x4.3x3.1mm, https://www.coilcraft.com/getmedia/6adcb47d-8b55-416c-976e-1e22e0d2848c/xal4000.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL4040-XXX
+Inductor, Coilcraft, XAL4040-XXX, 4.3x4.3x4.1mm, https://www.coilcraft.com/getmedia/6adcb47d-8b55-416c-976e-1e22e0d2848c/xal4000.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL5020-XXX
+Inductor, Coilcraft, XAL5020-XXX, 5.48x5.68x2.0mm, https://www.coilcraft.com/getmedia/1941eff1-c018-493c-8cd6-d88d2edf5029/xal5020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL5030-XXX
+Inductor, Coilcraft, XAL5030-XXX, 5.48x5.68x3.1mm, https://www.coilcraft.com/getmedia/49bc46c8-4b2c-45b9-9b6c-2eaa235ea698/xal50xx.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL5050-XXX
+Inductor, Coilcraft, XAL5050-XXX, 5.48x5.68x5.1mm, https://www.coilcraft.com/getmedia/49bc46c8-4b2c-45b9-9b6c-2eaa235ea698/xal50xx.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL6020-XXX
+Inductor, Coilcraft, XAL6020-XXX, 6.56x6.76x2.1mm, https://www.coilcraft.com/getmedia/467ff589-8942-4e57-92d0-5bef6e04ce09/xal6020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL6030-XXX
+Inductor, Coilcraft, XAL6030-XXX, 6.56x6.76x3.1mm, https://www.coilcraft.com/getmedia/ea51f14b-7f32-4dc6-8dfe-d4b70549040f/xal60xx.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL6060-XXX
+Inductor, Coilcraft, XAL6060-XXX, 6.56x6.76x6.1mm, https://www.coilcraft.com/getmedia/ea51f14b-7f32-4dc6-8dfe-d4b70549040f/xal60xx.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-102
+Inductor, Coilcraft, XAL7020-102, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-122
+Inductor, Coilcraft, XAL7020-122, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-151
+Inductor, Coilcraft, XAL7020-151, 8.0x8.0x2.05mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-152
+Inductor, Coilcraft, XAL7020-152, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-222
+Inductor, Coilcraft, XAL7020-222, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-271
+Inductor, Coilcraft, XAL7020-271, 8.0x8.0x2.05mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-331
+Inductor, Coilcraft, XAL7020-331, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-471
+Inductor, Coilcraft, XAL7020-471, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7020-681
+Inductor, Coilcraft, XAL7020-681, 8.0x8.0x2.0mm, https://www.coilcraft.com/getmedia/0197e98c-67f7-4375-9e38-14d7376a46f3/xal7020.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-102
+Inductor, Coilcraft, XAL7030-102, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-103
+Inductor, Coilcraft, XAL7030-103, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-152
+Inductor, Coilcraft, XAL7030-152, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-161
+Inductor, Coilcraft, XAL7030-161, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-222
+Inductor, Coilcraft, XAL7030-222, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-272
+Inductor, Coilcraft, XAL7030-272, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-301
+Inductor, Coilcraft, XAL7030-301, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-332
+Inductor, Coilcraft, XAL7030-332, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-472
+Inductor, Coilcraft, XAL7030-472, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-562
+Inductor, Coilcraft, XAL7030-562, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-601
+Inductor, Coilcraft, XAL7030-601, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-682
+Inductor, Coilcraft, XAL7030-682, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7030-822
+Inductor, Coilcraft, XAL7030-822, 8.0x8.0x3.1mm, https://www.coilcraft.com/getmedia/0d05a05e-d55d-4a0c-911d-46bd73686633/xal7030.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7050-XXX
+Inductor, Coilcraft, XAL7050-XXX, 7.7x8.0x5.0mm, https://www.coilcraft.com/getmedia/13a991b3-4273-4be3-81ba-f3cf372b4691/xal7050.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL7070-XXX
+Inductor, Coilcraft, XAL7070-XXX, 7.7x8.0x7.0mm, https://www.coilcraft.com/getmedia/1ba55433-bcc8-4838-9b21-382f497e12e0/xal7070.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL8050-223
+Inductor, Coilcraft, XAL8050-223, 8.3x8.8x5.0mm, https://www.coilcraft.com/getmedia/5885ede8-ea4f-464a-9dcb-18dbf143a845/xal8050.pdf
+Inductor xal
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_XAL8080-XXX
+Inductor, Coilcraft, XAL8080-XXX, 8.3x8.8x8.0mm, https://www.coilcraft.com/getmedia/345e50d6-a804-4ecb-9a92-5185221faf3e/xal8080.pdf
+Inductor xal
 0
 2
 2
@@ -56069,6 +56720,34 @@ wurth wuerth smd inductor
 0
 2
 2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-2010
+Semi-Shielded High Saturation Power Inductor, body 2x1.6mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2010
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-2512
+Semi-Shielded High Saturation Power Inductor, body 2.5x2mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-2512
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-3012
+Semi-Shielded High Saturation Power Inductor, body 3x3mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-3012
+SMT
+0
+2
+2
+Inductor_SMD_Wurth
+L_Wurth_WE-LQSH-4020
+Semi-Shielded High Saturation Power Inductor, body 4x4mm, https://www.we-online.com/catalog/en/WE-LQSH#/articles/WE-LQSH-4020
+SMT
+0
+2
+2
 Inductor_THT
 Choke_EPCOS_B82722A
 Current-Compensated Ring Core Double Chokes, EPCOS, B82722A, 22.3mmx22.7mm, https://en.tdk.eu/inf/30/db/ind_2008/b82722a_j.pdf
@@ -57875,6 +58554,76 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 0
 2
 2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2012_LeadDiameter1.2mm
+Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2012_LeadDiameter1.5mm
+Shielded High Current Inductor, body 17x22mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-2012-ROUND
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-2504
+Shielded High Current Inductor, body 22x25.7mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT_SIZE_2504
+THT
+0
+2
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3521
+Shielded High Current Inductor, body 21.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3521
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3533_LeadDiameter1.8mm
+Shielded High Current Inductor, body 34.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3533-ROUND
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3533_LeadDiameter2.0mm
+Shielded High Current Inductor, body 34.5x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3533-ROUND
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter0.8mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter1.3mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter1.5mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
+Inductor_THT_Wurth
+L_Wurth_WE-HCFT-3540_LeadDiameter2.0mm
+Shielded High Current Inductor, body 41x36mm, https://www.we-online.com/catalog/en/WE-HCFT#/articles/WE-HCFT-3540
+THT
+0
+4
+2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -58362,6 +59111,13 @@ LED_SMD
 LED_LiteOn_LTST-C19HE1WT
 LiteOn RGB LED; https://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
 LED RGB Chip SMD
+0
+4
+4
+LED_SMD
+LED_LiteOn_LTST-C295K_1.6x0.8mm
+Topview dual http://optoelectronics.liteon.com/upload/download/DS22-2009-0072/LTST-C295KGKRKT.PDF
+SMD Top view Dual colour
 0
 4
 4
@@ -59154,8 +59910,8 @@ FBGA-96_10x13.3mm
 
 
 0
-0
-0
+96
+96
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -59408,6 +60164,13 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Motors
+Vybronics_VZ30C1T8219732L
+Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
+vibration motor Vybronics
+0
+12
+3
 MountingEquipment
 DINRailAdapter_3xM3_PhoenixContact_1201578
 https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1
@@ -63203,6 +63966,13 @@ Maxim_WLP-12
 12
 12
 Package_BGA
+Maxim_WLP-12_1.608x2.008mm_Layout4x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
+Maxim WLP-12, W121H2+1, 2.008x1.608mm, 12 Ball, 4x3 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF, https://pdfserv.maximintegrated.com/package_dwgs/21-100302.PDF
+BGA 12 0.4
+0
+12
+12
+Package_BGA
 Microchip_TFBGA-196_11x11mm_Layout14x14_P0.75mm_SMD
 TFBGA-196, 11.0x11.0mm, 196 Ball, 14x14 Layout, 0.75mm Pitch, http://ww1.microchip.com/downloads/en/DeviceDoc/SAMA5D2-Series-Data-Sheet-DS60001476C.pdf#page=2956
 BGA 196 0.75
@@ -63369,6 +64139,13 @@ Texas Instruments, DSBGA, 0.822x1.116mm, 5 bump 2x1x2 array, NSMD pad definition
 Texas Instruments DSBGA BGA YFF S-XBGA-N5
 0
 10
+5
+Package_BGA
+Texas_DSBGA-5_0.8875x1.3875mm_Layout2x3_P0.5mm
+Texas Instruments, DSBGA, area grid, NSMD, YZP0005 pad definition, 0.8875x1.3875mm, 5 Ball, 2x3 Layout, 0.5mm Pitch, https://www.ti.com/lit/ds/symlink/sn74lvc1g17.pdf#page=42, https://www.ti.com/lit/ml/mxbg018l/mxbg018l.pdf
+BGA 5 0.5 YZP
+0
+5
 5
 Package_BGA
 Texas_DSBGA-6_0.9x1.4mm_Layout2x3_P0.5mm
@@ -65373,6 +66150,27 @@ DFN 1.27
 16
 9
 Package_DFN_QFN
+DHVQFN-14-1EP_2.5x3mm_P0.5mm_EP1x1.5mm
+DHVQFN, 14 Pin (JEDEC MO-241/VAA, https://assets.nexperia.com/documents/package-information/SOT762-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DHVQFN NoLead
+0
+16
+15
+Package_DFN_QFN
+DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm
+DHVQFN, 16 Pin (JEDEC MO-241/VAB, https://assets.nexperia.com/documents/package-information/SOT763-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DHVQFN NoLead
+0
+19
+17
+Package_DFN_QFN
+DHVQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x3mm
+DHVQFN, 20 Pin (JEDEC MO-241/VAC, https://assets.nexperia.com/documents/package-information/SOT764-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DHVQFN NoLead
+0
+23
+21
+Package_DFN_QFN
 Diodes_DFN1006-3
 DFN package size 1006 3 pins
 DFN package size 1006 3 pins
@@ -65568,6 +66366,13 @@ MLPQ- 0.65
 0
 21
 17
+Package_DFN_QFN
+Maxim_TDFN-6-1EP_3x3mm_P0.95mm_EP1.5x2.3mm
+Maxim  TDFN, 6 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/MAX4460-MAX4462.pdf#page=19, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/tdfn-ep/21-0137.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Maxim TDFN NoLead
+0
+11
+7
 Package_DFN_QFN
 Micrel_MLF-8-1EP_2x2mm_P0.5mm_EP0.6x1.2mm
 Micrel  MLF, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic23050.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -67361,6 +68166,20 @@ TDFN NoLead
 16
 11
 Package_DFN_QFN
+TDFN-12-1EP_3x3mm_P0.4mm_EP1.7x2.45mm
+TDFN, 12 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-tdfn-12pin-l123x3c), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+25
+13
+Package_DFN_QFN
+TDFN-12-1EP_3x3mm_P0.4mm_EP1.7x2.45mm_ThermalVias
+TDFN, 12 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-tdfn-12pin-l123x3c), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+32
+13
+Package_DFN_QFN
 TDFN-12_2x3mm_P0.5mm
 TDFN, 12 Pads, No exposed, http://www.st.com/resource/en/datasheet/stm6600.pdf
 DFN
@@ -67482,6 +68301,20 @@ TQFN NoLead
 Package_DFN_QFN
 TQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm_ThermalVias
 TQFN, 24 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+39
+25
+Package_DFN_QFN
+TQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+TQFN, 24 Pin (http://pdfserv.maxim-ic.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+29
+25
+Package_DFN_QFN
+TQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+TQFN, 24 Pin (http://pdfserv.maxim-ic.com/package_dwgs/21-0139.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
 TQFN NoLead
 0
 39
@@ -68368,6 +69201,20 @@ VQFN NoLead
 0
 30
 21
+Package_DFN_QFN
+VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+VQFN, 24 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/product-documents/package-drawings/24L-VQFN%E2%80%934x4x0.9mm-MJ-C04-00143b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+29
+25
+Package_DFN_QFN
+VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+VQFN, 24 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/product-documents/package-drawings/24L-VQFN%E2%80%934x4x0.9mm-MJ-C04-00143b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+39
+25
 Package_DFN_QFN
 VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm
 VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430f1101a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -71386,6 +72233,13 @@ QFP 0.5
 53
 49
 Package_QFP
+TQFP-48-1EP_7x7mm_P0.5mm_EP4.11x4.11mm
+TQFP, 48 Pin (https://www.lumissil.com/assets/pdf/core/IS31FL3236_DS.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+65
+49
+Package_QFP
 TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm
 TQFP, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf (page 45)), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TQFP QFP
@@ -72029,6 +72883,20 @@ HTSSOP 0.5
 0
 72
 57
+Package_SO
+HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm
+HVSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa6110a2.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HVSSOP SO
+0
+13
+9
+Package_SO
+HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias
+HVSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa6110a2.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HVSSOP SO
+0
+18
+9
 Package_SO
 HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
 HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -73499,6 +74367,13 @@ TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.15x3.35mm
+TSSOP, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100132.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+25
+21
 Package_SO
 TSSOP-20_4.4x5mm_P0.4mm
 TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -75195,7 +76070,7 @@ TO-50-4 Macro X Package Style M238
 4
 Package_TO_SOT_SMD
 TO-252-2
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
 DPAK TO-252 DPAK-3 TO-252-3 SOT-428
 0
 7
@@ -75209,42 +76084,42 @@ TO-252-2 diode
 2
 Package_TO_SOT_SMD
 TO-252-3_TabPin2
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
 DPAK TO-252 DPAK-3 TO-252-3 SOT-428
 0
 8
 3
 Package_TO_SOT_SMD
 TO-252-3_TabPin4
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/
 DPAK TO-252 DPAK-3 TO-252-3 SOT-428
 0
 8
 4
 Package_TO_SOT_SMD
 TO-252-4
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
 DPAK TO-252 DPAK-5 TO-252-5
 0
 9
 5
 Package_TO_SOT_SMD
 TO-252-5_TabPin3
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
 DPAK TO-252 DPAK-5 TO-252-5
 0
 10
 5
 Package_TO_SOT_SMD
 TO-252-5_TabPin6
-TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
+TO-252/DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-5-11/
 DPAK TO-252 DPAK-5 TO-252-5
 0
 10
 6
 Package_TO_SOT_SMD
 TO-263-2
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
 D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 0
 7
@@ -75258,56 +76133,56 @@ D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404 diode
 2
 Package_TO_SOT_SMD
 TO-263-3_TabPin2
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
 D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 0
 8
 3
 Package_TO_SOT_SMD
 TO-263-3_TabPin4
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/
 D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404
 0
 8
 4
 Package_TO_SOT_SMD
 TO-263-4
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
 D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
 0
 9
 5
 Package_TO_SOT_SMD
 TO-263-5_TabPin3
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
 D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
 0
 10
 5
 Package_TO_SOT_SMD
 TO-263-5_TabPin6
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-5-1/
 D2PAK DDPAK TO-263 D2PAK-5 TO-263-5 SOT-426
 0
 10
 6
 Package_TO_SOT_SMD
 TO-263-6
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
 D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
 0
 11
 7
 Package_TO_SOT_SMD
 TO-263-7_TabPin4
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
 D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
 0
 12
 7
 Package_TO_SOT_SMD
 TO-263-7_TabPin8
-TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
+TO-263/D2PAK/DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-7-1/
 D2PAK DDPAK TO-263 D2PAK-7 TO-263-7 SOT-427
 0
 12
@@ -78764,6 +79639,13 @@ TWE-L-WX
 32
 32
 RF_Module
+NINA-B111
+NINA-B111 LGA module 42 Pin https://content.u-blox.com/sites/default/files/NINA-B1_DataSheet_UBX-15019243.pdf#page=30
+NINA ublox u-blox b111 bluetooth nrf52840 module
+0
+42
+42
+RF_Module
 Particle_P1
 https://docs.particle.io/datasheets/p1-datasheet/
 Particle P1
@@ -81094,6 +81976,13 @@ Sensirion QFN NoLead
 0
 25
 21
+Sensor
+Sensortech_MiCS_5x7mm_P1.25mm
+https://www.sgxsensortech.com/content/uploads/2014/07/1084_Datasheet-MiCS-5524-rev-8.pdf
+Sensortech MiCS MEMS sensor
+0
+10
+10
 Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
